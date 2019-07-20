@@ -7,6 +7,10 @@ Upcycle é o processo de utilizar material que seria lixo para fazer novos itens
 
 O aplicativo contribui com a ODS ao incentivar as pessoas a reduzirem a produção de lixo e repensarem a utilidade de coisas que descartam no seu dia a dia.
 
+## Página
+
+https://brenotome.github.io/kabusha/
+
 ## Protótipo
 Coloquei anúncios de compra  em bastante destaque, para incentivar a pessoa a procurar itens que ainda não estão disponiveis, e mostrando para quem tem interesse em fazer e vender esses itens a demanda que já existe.
 ### link figma
